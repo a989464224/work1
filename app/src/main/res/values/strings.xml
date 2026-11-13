@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">work1</string>
+    <string name="main_title">余兴才2024180548</string>
+    <string name="history_title">历史记录</string>
+    <string name="first_number">第一个数</string>
+    <string name="second_number">第二个数</string>
+    <string name="operation">选择运算</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+    <string name="calculate">计算</string>
+    <string name="result_prefix">结果：</string>
+    <string name="menu_history">历史</string>
+    <string name="error_invalid_input">请输入有效的数字</string>
+    <string name="error_select_operator">请选择运算</string>
+    <string name="error_divide_by_zero">除数不能为0</string>
+    <string name="empty_history">暂无历史记录</string>
 </resources>
